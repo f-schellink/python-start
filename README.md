@@ -1,2 +1,2 @@
 # python-start
-Learning Python
+I'm 9. Dad is forcing me to do programming. So here I go. First programming language, Python
